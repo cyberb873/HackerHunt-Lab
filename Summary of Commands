@@ -1,0 +1,7 @@
+cd /path/to/HackerHunt-Lab
+git init
+git add hackerhunt_lab.py README.md requirements.txt
+git commit -m "Initial commit: add HackerHunt-Lab project files"
+git remote add origin https://github.com/yourusername/HackerHunt-Lab.git
+git branch -M main
+git push -u origin main
