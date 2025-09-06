@@ -1,0 +1,30 @@
+
+Save this as `README.md` in the folder.
+
+### c) `requirements.txt`
+
+- List your Python dependencies here.
+- Example content for `requirements.txt`:
+
+Adjust based on which modules you use.
+
+Save this as `requirements.txt` in the folder.
+
+---
+
+## 3. Verify Your Folder Structure
+
+Your folder should look like this:
+
+---
+
+## 4. Next Steps: Initialize Git and Upload to GitHub
+
+Once your folder is ready:
+
+- Open terminal and navigate to `HackerHunt-Lab`.
+- Initialize git, commit files, and push to GitHub as per the earlier guide.
+
+---
+
+If you want, I can generate sample `README.md` and `requirements.txt` files for you to copy!
