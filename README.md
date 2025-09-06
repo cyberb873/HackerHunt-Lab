@@ -15,9 +15,7 @@ Run the tool with:
 
 ```bash
 python3 hackerhunt_lab.py --target example.com --modules all
-To **add command-line commands (arguments/options) to your Python tool (`hackerhunt_lab.py`)**, you typically use a module like `argparse` to parse and handle user inputs. Here’s a step-by-step guide on how to add commands such as `--target` and `--modules` to your script:
 
----
 
 # Commands 
 
@@ -123,5 +121,5 @@ if __name__ == "__main__":
     main()
 ```
 
----
+
 
